@@ -1,0 +1,8 @@
+.text {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 90px;  
+}
+body {
+    background-image: url("background.jpg");
+}
